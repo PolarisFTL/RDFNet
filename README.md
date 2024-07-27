@@ -1,1 +1,2 @@
-# RDFNet
+📢News
+The core code will be released after the paper is published.
