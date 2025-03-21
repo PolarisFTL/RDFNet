@@ -4,7 +4,8 @@
 The core code will be released after the paper is published.
 <ul>
 <li>November, 2024: Submitted paper.
-<li>February, 19 2024: Rebuttal.
+<li>February, 19 2025: Rebuttal.
+<li>March, 21 2025: Accept!
   
 </ul>
 
