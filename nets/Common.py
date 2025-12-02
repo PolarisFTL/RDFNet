@@ -297,7 +297,6 @@ class SPPELAN(nn.Module):
 
 
 def print_model_flops_and_params(model, inputs):
-    # 注意：直接传入包含三个张量的元组，不要再额外包装
     flops, params = profile(model, inputs=inputs)
     print(f"FLOPs: {flops / 1e9:.2f} GFLOPs")
     print(f"Parameters: {params / 1e6:.2f} M")
