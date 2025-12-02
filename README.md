@@ -14,8 +14,8 @@ _The architecture of the proposed RDFNet consists of several key components. Ini
 
 #### 😶‍🌫️ Experiments
 
-![](https://github.com/PolarisFTL/MASFNet/blob/main/figs/result.png)
-![](https://github.com/PolarisFTL/MASFNet/blob/main/figs/visual.png)
+![](https://github.com/PolarisFTL/RDFNet/blob/main/figs/result.png)
+![](https://github.com/PolarisFTL/RDFNet/blob/main/figs/visual.png)
 
 #### 📢News
 
