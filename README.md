@@ -81,7 +81,7 @@ python train.py
 ```
 
 ```python
-# eval MASFNet for RTTS dataset
+# eval RDFNet for RTTS dataset
 python get_map.py
 # data_name='rtts,
 # vocdevkit_path='the path of RTTS dataset'
