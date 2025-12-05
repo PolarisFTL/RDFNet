@@ -4,7 +4,7 @@
 <a href="https://huggingface.co/spaces/PolarisFTL/RDFNet" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demos-blue"></a>&ensp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PolarisFTL.RDFNet) <br />
 
-[Tianle Fang](https://polarisftl.github.io/), [Zhenbing Liu](https://www.guet.edu.cn/sai/2023/0601/c5277a107204/page.htm), Yutao Tang, Yingxin Huang, Haoxiang Lu, and Chuangtao Zheng <br />
+[Tianle Fang](https://polarisftl.github.io/), Zhenbing Liu, Yutao Tang, Yingxin Huang, Haoxiang Lu, and [Chuangtao Zheng](https://github.com/15989715465) <br />
 Computer Science and Information Security, Guilin University of Electronic Technology
 
 ---
